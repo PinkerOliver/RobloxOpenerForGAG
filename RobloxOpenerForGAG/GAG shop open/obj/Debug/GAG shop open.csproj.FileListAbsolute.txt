@@ -1,0 +1,11 @@
+D:\c\GAG shop open\GAG shop open\bin\Debug\GAG shop open.exe.config
+D:\c\GAG shop open\GAG shop open\bin\Debug\GAG shop open.exe
+D:\c\GAG shop open\GAG shop open\bin\Debug\GAG shop open.pdb
+D:\c\GAG shop open\GAG shop open\obj\Debug\GAG shop open.csproj.AssemblyReference.cache
+D:\c\GAG shop open\GAG shop open\obj\Debug\GAG_shop_open.Form1.resources
+D:\c\GAG shop open\GAG shop open\obj\Debug\GAG_shop_open.Properties.Resources.resources
+D:\c\GAG shop open\GAG shop open\obj\Debug\GAG shop open.csproj.GenerateResource.cache
+D:\c\GAG shop open\GAG shop open\obj\Debug\GAG shop open.csproj.CoreCompileInputs.cache
+D:\c\GAG shop open\GAG shop open\obj\Debug\GAG shop open.exe
+D:\c\GAG shop open\GAG shop open\obj\Debug\GAG shop open.pdb
+D:\c\GAG shop open\GAG shop open\obj\Debug\GAG shop open.exe.config
