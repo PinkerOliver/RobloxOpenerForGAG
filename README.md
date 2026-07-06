@@ -21,4 +21,4 @@ A lightweight WinForms utility that automatically brings Roblox to the foregroun
 2. Start GAG Shop Opener.
 3. Leave it running.
 
-##IT DOESN'T GO AGAINST ROBLOX TOS
+## IT DOESN'T GO AGAINST ROBLOX TOS
