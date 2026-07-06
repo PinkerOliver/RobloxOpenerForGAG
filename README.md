@@ -8,6 +8,7 @@ A lightweight WinForms utility that automatically brings Roblox to the foregroun
 - Automatically detects the Roblox client
 - Restores the Roblox window if minimized
 - Brings Roblox to the foreground every 5-minute interval
+- Fully readable code
 
 ## Requirements
 
