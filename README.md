@@ -12,7 +12,7 @@ A lightweight WinForms utility that automatically brings Roblox to the foregroun
 ## Requirements
 
 - Windows
-- .NET Framework / .NET (depending on your project)
+- .NET Framework / .NET
 - Roblox desktop client
 
 ## Usage
